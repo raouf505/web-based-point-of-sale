@@ -1,0 +1,1 @@
+WoPSeE is a small business management application that is hosted on a LAMP stack.
